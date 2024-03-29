@@ -1,6 +1,6 @@
 # King-County-Property-Sales-Tableau-Project
-This project visualizes the property sales in King County, Washington, USA
-I have considered the condition of the property and co-related it with the view the house provides to create a heat map using the average price as a filter.
+1. This project visualizes the property sales in King County, Washington, USA
+2. I have considered the condition of the property and co-related it with the view the house provides to create a heat map using the average price as a filter.
 I have used advanced filters to create an interactive calender.
 User can easily understand the complex and large dataset using the dashboard.
 Relations between house prices and number of rooms / house condition / view the house provides are insightful
