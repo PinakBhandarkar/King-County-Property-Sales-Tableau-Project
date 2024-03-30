@@ -7,3 +7,5 @@
 6. I have used King County Map to create a heatmap using average price which will highlight darker colors to the regions with highest prices.
 7. This heatmap can be used to analyze how a particular location in the King County Region affects the price of a house
 8. The average distribution of number of beds and bathrooms has also been provided in the dashboard for detailed analysis.
+9. Helpful for real estate agencies to analyse how price is influenced by location, condition, view, and number of bedrooms.
+
